@@ -43,7 +43,7 @@ const questionsType = [
   
   const persons = [
     {
-      img: "public/exercise-3/001-man.svg",
+      img: "assets/img/001-man.svg",
       gender: "Man",
       hairColor: "Black",
       moustache: "No",
@@ -54,7 +54,7 @@ const questionsType = [
       longHair: "No",
     },
     {
-      img: "public/exercise-3/002-man.svg",
+      img: "assets/img/002-man.svg",
       gender: "Man",
       hairColor: "Blonde",
       moustache: "No",
@@ -65,7 +65,7 @@ const questionsType = [
       longHair: "No",
     },
     {
-      img: "public/exercise-3/003-man.svg",
+      img: "assets/img/003-man.svg",
       gender: "Man",
       hairColor: "Black",
       moustache: "No",
@@ -76,7 +76,7 @@ const questionsType = [
       longHair: "No",
     },
     {
-      img: "public/exercise-3/004-man.svg",
+      img: "assets/img/004-man.svg",
       gender: "Man",
       hairColor: "Blonde",
       moustache: "No",
@@ -87,7 +87,7 @@ const questionsType = [
       longHair: "No",
     },
     {
-      img: "public/exercise-3/005-man.svg",
+      img: "assets/img/005-man.svg",
       gender: "Man",
       hairColor: "Black",
       moustache: "No",
@@ -98,7 +98,7 @@ const questionsType = [
       longHair: "No",
     },
     {
-      img: "public/exercise-3/006-man.svg",
+      img: "assets/img/006-man.svg",
       gender: "Man",
       hairColor: "Brown",
       moustache: "Yes",
@@ -109,7 +109,7 @@ const questionsType = [
       longHair: "No",
     },
     {
-      img: "public/exercise-3/007-man.svg",
+      img: "assets/img/007-man.svg",
       gender: "Man",
       hairColor: "Red",
       moustache: "No",
@@ -120,7 +120,7 @@ const questionsType = [
       longHair: "No",
     },
     {
-      img: "public/exercise-3/008-man.svg",
+      img: "assets/img/008-man.svg",
       gender: "Man",
       hairColor: "Black",
       moustache: "No",
@@ -131,7 +131,7 @@ const questionsType = [
       longHair: "No",
     },
     {
-      img: "public/exercise-3/009-man.svg",
+      img: "assets/img/009-man.svg",
       gender: "Man",
       hairColor: "Blonde",
       moustache: "No",
@@ -142,7 +142,7 @@ const questionsType = [
       longHair: "No",
     },
     {
-      img: "public/exercise-3/010-woman.svg",
+      img: "assets/img/010-woman.svg",
       gender: "Woman",
       hairColor: "Brown",
       moustache: "No",
@@ -153,7 +153,7 @@ const questionsType = [
       longHair: "Yes",
     },
     {
-      img: "public/exercise-3/011-woman.svg",
+      img: "assets/img/011-woman.svg",
       gender: "Woman",
       hairColor: "Black",
       moustache: "No",
@@ -164,7 +164,7 @@ const questionsType = [
       longHair: "Yes",
     },
     {
-      img: "public/exercise-3/012-woman.svg",
+      img: "assets/img/012-woman.svg",
       gender: "Woman",
       hairColor: "Red",
       moustache: "No",
@@ -175,7 +175,7 @@ const questionsType = [
       longHair: "Yes",
     },
     {
-      img: "public/exercise-3/013-woman.svg",
+      img: "assets/img/013-woman.svg",
       gender: "Woman",
       hairColor: "White",
       moustache: "No",
@@ -186,7 +186,7 @@ const questionsType = [
       longHair: "Yes",
     },
     {
-      img: "public/exercise-3/014-woman.svg",
+      img: "assets/img/014-woman.svg",
       gender: "Woman",
       hairColor: "Black",
       moustache: "No",
@@ -197,7 +197,7 @@ const questionsType = [
       longHair: "Yes",
     },
     {
-      img: "public/exercise-3/015-woman.svg",
+      img: "assets/img/015-woman.svg",
       gender: "Woman",
       hairColor: "Brown",
       moustache: "No",
@@ -208,7 +208,7 @@ const questionsType = [
       longHair: "Yes",
     },
     {
-      img: "public/exercise-3/016-woman.svg",
+      img: "assets/img/016-woman.svg",
       gender: "Woman",
       hairColor: "Black",
       moustache: "No",
@@ -219,7 +219,7 @@ const questionsType = [
       longHair: "Yes",
     },
     {
-      img: "public/exercise-3/017-woman.svg",
+      img: "assets/img/017-woman.svg",
       gender: "Woman",
       hairColor: "Blonde",
       moustache: "No",
@@ -230,7 +230,7 @@ const questionsType = [
       longHair: "No",
     },
     {
-      img: "public/exercise-3/018-man.svg",
+      img: "assets/img/018-man.svg",
       gender: "Man",
       hairColor: "Black",
       moustache: "No",
@@ -241,7 +241,7 @@ const questionsType = [
       longHair: "No",
     },
     {
-      img: "public/exercise-3/019-man.svg",
+      img: "assets/img/019-man.svg",
       gender: "Man",
       hairColor: "Black",
       moustache: "No",
@@ -252,7 +252,7 @@ const questionsType = [
       longHair: "No",
     },
     {
-      img: "public/exercise-3/020-man.svg",
+      img: "assets/img/020-man.svg",
       gender: "Man",
       hairColor: "Blonde",
       moustache: "No",
@@ -263,7 +263,7 @@ const questionsType = [
       longHair: "No",
     },
     {
-      img: "public/exercise-3/021-man.svg",
+      img: "assets/img/021-man.svg",
       gender: "Man",
       hairColor: "Black",
       moustache: "Yes",
@@ -274,7 +274,7 @@ const questionsType = [
       longHair: "No",
     },
     {
-      img: "public/exercise-3/022-man.svg",
+      img: "assets/img/022-man.svg",
       gender: "Man",
       hairColor: "Black",
       moustache: "No",
@@ -285,7 +285,7 @@ const questionsType = [
       longHair: "No",
     },
     {
-      img: "public/exercise-3/023-man.svg",
+      img: "assets/img/023-man.svg",
       gender: "Man",
       hairColor: "Black",
       moustache: "No",
@@ -296,7 +296,7 @@ const questionsType = [
       longHair: "No",
     },
     {
-      img: "public/exercise-3/024-man.svg",
+      img: "assets/img/024-man.svg",
       gender: "Man",
       hairColor: "Blonde",
       moustache: "No",
@@ -307,7 +307,7 @@ const questionsType = [
       longHair: "Yes",
     },
     {
-      img: "public/exercise-3/025-man.svg",
+      img: "assets/img/025-man.svg",
       gender: "Man",
       hairColor: "Black",
       moustache: "No",
@@ -318,7 +318,7 @@ const questionsType = [
       longHair: "No",
     },
     {
-      img: "public/exercise-3/026-man.svg",
+      img: "assets/img/026-man.svg",
       gender: "Man",
       hairColor: "Black",
       moustache: "No",
@@ -329,7 +329,7 @@ const questionsType = [
       longHair: "No",
     },
     {
-      img: "public/exercise-3/027-woman.svg",
+      img: "assets/img/027-woman.svg",
       gender: "Woman",
       hairColor: "Black",
       moustache: "No",
@@ -340,7 +340,7 @@ const questionsType = [
       longHair: "Yes",
     },
     {
-      img: "public/exercise-3/028-woman.svg",
+      img: "assets/img/028-woman.svg",
       gender: "Woman",
       hairColor: "Black",
       moustache: "No",
@@ -351,7 +351,7 @@ const questionsType = [
       longHair: "Yes",
     },
     {
-      img: "public/exercise-3/029-woman.svg",
+      img: "assets/img/029-woman.svg",
       gender: "Woman",
       hairColor: "Black",
       moustache: "No",
@@ -362,7 +362,7 @@ const questionsType = [
       longHair: "Yes",
     },
     {
-      img: "public/exercise-3/030-woman.svg",
+      img: "assets/img/030-woman.svg",
       gender: "Woman",
       hairColor: "Blonde",
       moustache: "No",
@@ -373,7 +373,7 @@ const questionsType = [
       longHair: "No",
     },
     {
-      img: "public/exercise-3/031-woman.svg",
+      img: "assets/img/031-woman.svg",
       gender: "Woman",
       hairColor: "Black",
       moustache: "No",
@@ -384,7 +384,7 @@ const questionsType = [
       longHair: "Yes",
     },
     {
-      img: "public/exercise-3/032-woman.svg",
+      img: "assets/img/032-woman.svg",
       gender: "Woman",
       hairColor: "Black",
       moustache: "No",
@@ -395,7 +395,7 @@ const questionsType = [
       longHair: "Yes",
     },
     {
-      img: "public/exercise-3/033-woman.svg",
+      img: "assets/img/033-woman.svg",
       gender: "Woman",
       hairColor: "Black",
       moustache: "No",
@@ -406,7 +406,7 @@ const questionsType = [
       longHair: "Yes",
     },
     {
-      img: "public/exercise-3/034-woman.svg",
+      img: "assets/img/034-woman.svg",
       gender: "Woman",
       hairColor: "Black",
       moustache: "No",
@@ -417,7 +417,7 @@ const questionsType = [
       longHair: "Yes",
     },
     {
-      img: "public/exercise-3/035-man.svg",
+      img: "assets/img/035-man.svg",
       gender: "Man",
       hairColor: "Black",
       moustache: "No",
@@ -428,7 +428,7 @@ const questionsType = [
       longHair: "No",
     },
     {
-      img: "public/exercise-3/036-man.svg",
+      img: "assets/img/036-man.svg",
       gender: "Man",
       hairColor: "Black",
       moustache: "No",
@@ -439,7 +439,7 @@ const questionsType = [
       longHair: "No",
     },
     {
-      img: "public/exercise-3/037-man.svg",
+      img: "assets/img/037-man.svg",
       gender: "Man",
       hairColor: "Black",
       moustache: "No",
@@ -450,7 +450,7 @@ const questionsType = [
       longHair: "No",
     },
     {
-      img: "public/exercise-3/038-man.svg",
+      img: "assets/img/038-man.svg",
       gender: "Man",
       hairColor: "Blonde",
       moustache: "No",
@@ -461,7 +461,7 @@ const questionsType = [
       longHair: "No",
     },
     {
-      img: "public/exercise-3/039-man.svg",
+      img: "assets/img/039-man.svg",
       gender: "Man",
       hairColor: "Black",
       moustache: "Yes",
@@ -472,7 +472,7 @@ const questionsType = [
       longHair: "No",
     },
     {
-      img: "public/exercise-3/040-man.svg",
+      img: "assets/img/040-man.svg",
       gender: "Man",
       hairColor: "Black",
       moustache: "No",
@@ -483,7 +483,7 @@ const questionsType = [
       longHair: "No",
     },
     {
-      img: "public/exercise-3/041-man.svg",
+      img: "assets/img/041-man.svg",
       gender: "Man",
       hairColor: "Blonde",
       moustache: "No",
@@ -494,7 +494,7 @@ const questionsType = [
       longHair: "No",
     },
     {
-      img: "public/exercise-3/042-man.svg",
+      img: "assets/img/042-man.svg",
       gender: "Man",
       hairColor: "Black",
       moustache: "No",
@@ -505,7 +505,7 @@ const questionsType = [
       longHair: "No",
     },
     {
-      img: "public/exercise-3/043-woman.svg",
+      img: "assets/img/043-woman.svg",
       gender: "Woman",
       hairColor: "Black",
       moustache: "No",
@@ -516,7 +516,7 @@ const questionsType = [
       longHair: "Yes",
     },
     {
-      img: "public/exercise-3/044-woman.svg",
+      img: "assets/img/044-woman.svg",
       gender: "Woman",
       hairColor: "Black",
       moustache: "No",
@@ -527,7 +527,7 @@ const questionsType = [
       longHair: "No",
     },
     {
-      img: "public/exercise-3/045-woman.svg",
+      img: "assets/img/045-woman.svg",
       gender: "Woman",
       hairColor: "Black",
       moustache: "No",
